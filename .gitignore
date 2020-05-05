@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/LoginformEF/.vs/LoginformEF
+/LoginformEF/bin/Debug/netcoreapp3.1
+/LoginformEF/obj
